@@ -40,3 +40,6 @@ The dataset contains:
 
 
 **Live App / Demo:**  https://customer-sales-analysis-ef4qddqcpfnzqs29lv9goi.streamlit.app/
+
+**Author**
+Udit Kumar Bhatore
